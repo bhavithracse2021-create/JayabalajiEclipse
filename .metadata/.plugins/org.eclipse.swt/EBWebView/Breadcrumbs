@@ -1,0 +1,175 @@
+14:48:37 Memory Pressure: Moderate
+14:48:47 Memory Pressure: Moderate
+14:48:57 Memory Pressure: Moderate
+14:49:07 Memory Pressure: Moderate
+14:49:17 Memory Pressure: Moderate
+14:49:27 Memory Pressure: Moderate
+14:49:37 Memory Pressure: Moderate
+14:49:47 Memory Pressure: Moderate
+14:49:57 Memory Pressure: Moderate
+14:50:07 Memory Pressure: Moderate
+14:50:17 Memory Pressure: Moderate
+14:50:27 Memory Pressure: Moderate
+14:50:37 Memory Pressure: Moderate
+14:50:47 Memory Pressure: Critical
+14:50:52 Memory Pressure: Moderate
+14:51:02 Memory Pressure: Moderate
+14:51:12 Memory Pressure: Critical
+14:51:17 Memory Pressure: Critical
+14:51:22 Memory Pressure: Critical
+14:51:27 Memory Pressure: Moderate
+14:51:37 Memory Pressure: Moderate
+14:51:47 Memory Pressure: Moderate
+14:51:57 Memory Pressure: Moderate
+14:52:07 Memory Pressure: Moderate
+14:52:17 Memory Pressure: Moderate
+14:52:27 Memory Pressure: Moderate
+14:52:37 Memory Pressure: Moderate
+14:52:47 Memory Pressure: Critical
+14:52:52 Memory Pressure: Critical
+14:52:57 Memory Pressure: Critical
+14:53:02 Memory Pressure: Critical
+14:53:07 Memory Pressure: Critical
+14:53:12 Memory Pressure: Critical
+14:53:17 Memory Pressure: Critical
+14:53:22 Memory Pressure: Critical
+14:53:27 Memory Pressure: Critical
+14:53:32 Memory Pressure: Moderate
+14:53:42 Memory Pressure: Moderate
+14:53:52 Memory Pressure: Moderate
+14:54:02 Memory Pressure: None
+14:58:33 Memory Pressure: Moderate
+14:58:43 Memory Pressure: Moderate
+14:58:53 Memory Pressure: Moderate
+14:59:03 Memory Pressure: None
+14:59:38 Memory Pressure: Moderate
+14:59:48 Memory Pressure: Moderate
+14:59:58 Memory Pressure: Moderate
+15:00:08 Memory Pressure: Moderate
+15:00:18 Memory Pressure: Moderate
+15:00:28 Memory Pressure: Moderate
+15:00:38 Memory Pressure: Moderate
+15:00:48 Memory Pressure: Moderate
+15:00:58 Memory Pressure: Moderate
+15:01:08 Memory Pressure: Moderate
+15:01:18 Memory Pressure: Moderate
+15:01:28 Memory Pressure: Moderate
+15:01:38 Memory Pressure: Moderate
+15:01:48 Memory Pressure: Moderate
+15:01:58 Memory Pressure: Moderate
+15:02:08 Memory Pressure: Moderate
+15:02:18 Memory Pressure: Moderate
+15:02:28 Memory Pressure: Moderate
+15:02:38 Memory Pressure: Moderate
+15:02:48 Memory Pressure: Moderate
+15:02:58 Memory Pressure: Moderate
+15:03:08 Memory Pressure: Moderate
+15:03:18 Memory Pressure: Moderate
+15:03:28 Memory Pressure: Moderate
+15:03:38 Memory Pressure: Moderate
+15:03:48 Memory Pressure: Moderate
+15:03:58 Memory Pressure: Moderate
+15:04:03 Memory Pressure: Critical
+15:04:08 Memory Pressure: Critical
+15:04:13 Memory Pressure: None
+15:06:48 Memory Pressure: Moderate
+15:06:58 Memory Pressure: Moderate
+15:07:03 Memory Pressure: None
+15:07:13 Memory Pressure: Moderate
+15:07:23 Memory Pressure: Moderate
+15:07:33 Memory Pressure: None
+15:07:58 Memory Pressure: Moderate
+15:08:08 Memory Pressure: Moderate
+15:08:18 Memory Pressure: Moderate
+15:08:28 Memory Pressure: Moderate
+15:08:38 Memory Pressure: Moderate
+15:08:48 Memory Pressure: Moderate
+15:08:58 Memory Pressure: Critical
+15:09:04 Memory Pressure: Critical
+15:09:09 Memory Pressure: Critical
+15:09:14 Memory Pressure: Critical
+15:09:19 Memory Pressure: Critical
+15:09:24 Memory Pressure: Critical
+15:09:29 Memory Pressure: None
+15:16:49 Memory Pressure: Moderate
+15:23:54 Memory Pressure: None
+15:33:38 Memory Pressure: Moderate
+15:33:48 Memory Pressure: Moderate
+15:33:58 Memory Pressure: Moderate
+15:34:03 Memory Pressure: None
+15:38:33 Memory Pressure: Moderate
+15:38:43 Memory Pressure: Moderate
+15:38:53 Memory Pressure: Moderate
+15:39:03 Memory Pressure: None
+19:19:22 Memory Pressure: Moderate
+19:19:32 Memory Pressure: None
+23:58:32 Tab1 StartNav23 #typed
+23:58:32 Tab1 FinishNav23
+23:58:32 Tab1 PageLoad
+23:58:33 Tab1 StartNav24 #typed
+23:58:33 Tab1 FinishNav24
+23:58:33 Tab1 PageLoad
+24:49:36 Tab1 StartNav25 #typed
+24:49:36 Tab1 FinishNav25
+24:49:36 Tab1 PageLoad
+34:34:52 Memory Pressure: Moderate
+34:34:57 Memory Pressure: Critical
+34:35:02 Memory Pressure: Critical
+34:35:07 Memory Pressure: Critical
+34:35:12 Memory Pressure: Critical
+34:35:17 Memory Pressure: Critical
+34:35:22 Memory Pressure: None
+34:35:32 Memory Pressure: Moderate
+34:35:42 Memory Pressure: Moderate
+34:35:52 Memory Pressure: Moderate
+34:35:57 Memory Pressure: None
+40:16:01 Memory Pressure: Moderate
+40:16:06 Memory Pressure: None
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:07:53 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 FinishNav2
+0:00:00 Tab1 PageLoad
+0:18:09 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser2 Insert active Tab2 at 0
+0:00:00 Tab2 StartNav2 #auto_toplevel
+0:00:00 Tab1 StartNav3 #typed
+0:00:00 Tab2 StartNav4 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab2 FinishNav2
+0:00:00 Tab1 FinishNav3
+0:00:00 Tab2 PageLoad
+0:00:00 Tab1 PageLoad
+0:00:01 Tab2 FinishNav4
+0:00:02 Tab2 PageLoad
+0:03:02 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
